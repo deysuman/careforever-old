@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "pTNdYEw9ldxc5txvs6PYCqmV8om27KsmIyWU9nkLuSq2IMgnnsiwAC4ft3zoru0msJKCCHO4kdgeHmQTsy8vEw==",
+  "success": true,
+  "projectFilePath": "/Users/sumandey/Desktop/careforever/careforever/careforever.csproj",
+  "expectedPackageFiles": [
+    "/Users/sumandey/.nuget/packages/microsoft.aspnet.webapi/5.2.3/microsoft.aspnet.webapi.5.2.3.nupkg.sha512",
+    "/Users/sumandey/.nuget/packages/microsoft.aspnet.webapi.client/5.2.3/microsoft.aspnet.webapi.client.5.2.3.nupkg.sha512",
+    "/Users/sumandey/.nuget/packages/microsoft.aspnet.webapi.core/5.2.3/microsoft.aspnet.webapi.core.5.2.3.nupkg.sha512",
+    "/Users/sumandey/.nuget/packages/microsoft.aspnet.webapi.webhost/5.2.3/microsoft.aspnet.webapi.webhost.5.2.3.nupkg.sha512",
+    "/Users/sumandey/.nuget/packages/newtonsoft.json/6.0.8/newtonsoft.json.6.0.8.nupkg.sha512",
+    "/Users/sumandey/.nuget/packages/system.data.datasetextensions/4.5.0/system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "/Users/sumandey/.nuget/packages/system.data.sqlclient/4.8.1/system.data.sqlclient.4.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}

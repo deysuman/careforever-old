@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "careforever", "careforever\careforever.csproj", "{631600B3-1AF2-4684-A25C-6F8B1A7AEC8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "careforever.Tests", "careforever.Tests\careforever.Tests.csproj", "{C856A49E-ABD0-4CB7-905D-7C49C91EE162}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{631600B3-1AF2-4684-A25C-6F8B1A7AEC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{631600B3-1AF2-4684-A25C-6F8B1A7AEC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{631600B3-1AF2-4684-A25C-6F8B1A7AEC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{631600B3-1AF2-4684-A25C-6F8B1A7AEC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C856A49E-ABD0-4CB7-905D-7C49C91EE162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C856A49E-ABD0-4CB7-905D-7C49C91EE162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C856A49E-ABD0-4CB7-905D-7C49C91EE162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C856A49E-ABD0-4CB7-905D-7C49C91EE162}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

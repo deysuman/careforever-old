@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{631600B3-1AF2-4684-A25C-6F8B1A7AEC8D}|">
+  <MonoDevelop.Ide.ItemProperties.careforever PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.careforever.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="careforever/login.aspx.cs">
+    <Files>
+      <File FileName="careforever/login.aspx" Line="21" Column="20" />
+      <File FileName="careforever/login.aspx.cs" Line="126" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="careforever" expanded="True">
+            <Node name="careforever" expanded="True">
+              <Node name="login.aspx" expanded="True">
+                <Node name="login.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="careforever.Tests" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="careforever" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,17 @@
+/Users/sumandey/Desktop/careforever/careforever/bin/careforever.dll
+/Users/sumandey/Desktop/careforever/careforever/bin/careforever.pdb
+/Users/sumandey/Desktop/careforever/careforever/bin/Newtonsoft.Json.dll
+/Users/sumandey/Desktop/careforever/careforever/bin/System.Net.Http.Formatting.dll
+/Users/sumandey/Desktop/careforever/careforever/bin/System.Web.Http.dll
+/Users/sumandey/Desktop/careforever/careforever/bin/System.Web.Http.WebHost.dll
+/Users/sumandey/Desktop/careforever/careforever/obj/Debug/careforever.csprojAssemblyReference.cache
+/Users/sumandey/Desktop/careforever/careforever/obj/Debug/careforever.csproj.CoreCompileInputs.cache
+/Users/sumandey/Desktop/careforever/careforever/obj/Debug/careforever.csproj.CopyComplete
+/Users/sumandey/Desktop/careforever/careforever/obj/Debug/careforever.dll
+/Users/sumandey/Desktop/careforever/careforever/obj/Debug/careforever.pdb
+/Users/sumandey/Desktop/careforever/careforever/bin/AjaxControlToolkit.dll
+/Users/sumandey/Desktop/careforever/careforever/bin/BLL.dll
+/Users/sumandey/Desktop/careforever/careforever/bin/DAL.dll
+/Users/sumandey/Desktop/careforever/careforever/bin/System.Data.SqlClient.dll
+/Users/sumandey/Desktop/careforever/careforever/bin/BLL.pdb
+/Users/sumandey/Desktop/careforever/careforever/bin/DAL.pdb
